@@ -1,3 +1,3 @@
-# temporary_repo
+# test_repo
 
 > Now this reamde file is complete ( because I said so!! ) test
